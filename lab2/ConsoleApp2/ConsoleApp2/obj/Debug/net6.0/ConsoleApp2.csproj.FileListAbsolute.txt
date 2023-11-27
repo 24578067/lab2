@@ -1,0 +1,72 @@
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\admin\Desktop\ку\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\admin\Desktop\ку\Malakhov\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\djoko\OneDrive\Рабочий стол\Torgonin\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
